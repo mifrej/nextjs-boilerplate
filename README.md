@@ -1,1 +1,1 @@
-nextjs-bootstrap
+nextjs-boilerplate

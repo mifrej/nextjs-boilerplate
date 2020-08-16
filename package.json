@@ -1,0 +1,9 @@
+{
+  "name": "nextjs-boilerplate",
+  "version": "1.0.0",
+  "description": "Nextjs setup with ecosystem libraries",
+  "main": "src/pages/index.tsx",
+  "repository": "git@github.com:mifrej/nextjs-boilerplate.git",
+  "author": "Milosz Frejnik <milosz@frejnik.com>",
+  "license": "MIT"
+}
